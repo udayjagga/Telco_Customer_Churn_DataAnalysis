@@ -21,4 +21,3 @@ Number of features : 33
 
 ## Purpose
 This dataset can be used for predictive data analytics purpose.
-
