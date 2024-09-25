@@ -11,7 +11,7 @@ Target is to do analyze the past data of the company about the customers and set
 ## Data Set Characteristics:
 Number of Observations in Data set : 7043
 
-Number of features : 33
+Number of features : 33 
 
 ## Libraries
 * Numpy #linear algebra
